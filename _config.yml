@@ -1,0 +1,10 @@
+title: "Artus' thoughts"
+description: "ArtusKG on AI and whatever else comes to his mind"
+theme: minima
+
+url: "https://artuskg.github.io"
+baseurl: ""
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
