@@ -274,3 +274,5 @@ The headline claim—"from one night of sleep, SleepFM accurately predicts 130 c
 
 
 With that by my side, I'll now re-read the paper and have a look at the code, too. 
+
+Artus' note: it was very annoying to realize that 5.2 Pro Extended Thinking has serious troubles to download a PDF from Nature or code from a GitHub repository. It is a learning for now but feels a bit like a throw back to the days of o1-pro. 
